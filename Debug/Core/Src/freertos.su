@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:80:6:vApplicationDaemonTaskStartupHook	4	static
+../Core/Src/freertos.c:90:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:135:6:StartSPIDebug	24	static
+../Core/Src/freertos.c:157:6:StartLED	16	static
